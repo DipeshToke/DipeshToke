@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   
 
 <h2 align="center"> ☁ Google Cloud Badges </h2>
-<a   href="https://www.cloudskillsboost.google/public_profiles/5d6fc487-c2e6-4ffd-9fc4-40632e129053/badges/2015051" target="_blank"><img src="https://cdn.qwiklabs.com/M7x2IjYxNZ3MmlAjrOp6yVJI%2FQ5vRE7GZHNqdo0pX5Y%3D" style="height:30vh; width:15vw;"/></a>
-<a   href="https://www.cloudskillsboost.google/public_profiles/5d6fc487-c2e6-4ffd-9fc4-40632e129053/badges/2040354" target="_blank"><img src="https://cdn.qwiklabs.com/r1QkOz%2FrIHzmuL%2FPvErqeQSLS8GkDd%2BI9yP0W2qSvAo%3D" style="height:30vh; width:15vw;"/></a>
-<a   href="https://www.cloudskillsboost.google/public_profiles/5d6fc487-c2e6-4ffd-9fc4-40632e129053/badges/2056629" target="_blank"><img src="https://cdn.qwiklabs.com/DEUGj6SgyrXh5IjkTT%2Fp7drKFpyeRe3nKDYQzO8Curk%3D" style="height:30vh; width:15vw;"/></a>
+<a   href="https://www.cloudskillsboost.google/public_profiles/5d6fc487-c2e6-4ffd-9fc4-40632e129053/badges/2015051" target="_blank"><img src="https://cdn.qwiklabs.com/M7x2IjYxNZ3MmlAjrOp6yVJI%2FQ5vRE7GZHNqdo0pX5Y%3D" style="height:15vh; width:8vw;"/></a>
+<a   href="https://www.cloudskillsboost.google/public_profiles/5d6fc487-c2e6-4ffd-9fc4-40632e129053/badges/2040354" target="_blank"><img src="https://cdn.qwiklabs.com/r1QkOz%2FrIHzmuL%2FPvErqeQSLS8GkDd%2BI9yP0W2qSvAo%3D" style="height:15vh; width:8vw;"/></a>
+<a   href="https://www.cloudskillsboost.google/public_profiles/5d6fc487-c2e6-4ffd-9fc4-40632e129053/badges/2056629" target="_blank"><img src="https://cdn.qwiklabs.com/DEUGj6SgyrXh5IjkTT%2Fp7drKFpyeRe3nKDYQzO8Curk%3D" style="height:15vh; width:8vw;"/></a>
 <a   href="https://www.cloudskillsboost.google/public_profiles/5d6fc487-c2e6-4ffd-9fc4-40632e129053/badges/2066416" target="_blank"><img src="https://cdn.qwiklabs.com/3cUZzotUhC3sWESWmiP9mofbB%2BcZrrX5NiKJEGZBS%2B4%3D" style="height:30vh; width:15vw;"/></a>
 <a   href="https://www.cloudskillsboost.google/public_profiles/5d6fc487-c2e6-4ffd-9fc4-40632e129053/badges/2068193" target="_blank"><img src="https://cdn.qwiklabs.com/pUYH6BSkX29MCEqAVyFyLTqr9COSyM77Y7p5bfDCiMI%3D" style="height:30vh; width:15vw;"/></a>
 <a   href="https://www.cloudskillsboost.google/public_profiles/5d6fc487-c2e6-4ffd-9fc4-40632e129053/badges/2068465" target="_blank"><img src="https://cdn.qwiklabs.com/9o0YZ9M1Ao0n%2Frt7xzPS2yI9c9cjkg5FIb3%2BEg6ettM%3D" style="height:30vh; width:15vw;"/></a>
